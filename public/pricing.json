@@ -1,0 +1,38 @@
+[
+  {
+    "name": "Basic Plan",
+    "pricing": "৳1,500/month",
+    "description": "Perfect for beginners who are just getting started on their fitness journey.",
+    "features": [
+      "Access to gym equipment",
+      "Locker room access",
+      "Free induction session",
+      "1 guest pass/month"
+    ]
+  },
+  {
+    "name": "Standard Plan",
+    "pricing": "৳2,500/month",
+    "description": "Ideal for regular gym-goers who want more flexibility and extra perks.",
+    "features": [
+      "Everything in Basic Plan",
+      "Group fitness classes (Yoga, Zumba, HIIT)",
+      "5 guest passes/month",
+      "Free fitness assessment",
+      "10% discount on supplements"
+    ]
+  },
+  {
+    "name": "Premium Plan",
+    "pricing": "৳4,000/month",
+    "description": "For serious fitness enthusiasts who want the full experience.",
+    "features": [
+      "All Standard Plan features",
+      "Unlimited guest access",
+      "Personal trainer (2 sessions/month)",
+      "Access to sauna and steam room",
+      "Priority booking for classes",
+      "20% discount on gym merchandise"
+    ]
+  }
+]
