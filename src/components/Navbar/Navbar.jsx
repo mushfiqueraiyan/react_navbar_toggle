@@ -52,7 +52,7 @@ const Navbar = () => {
         <ul className="hidden group-hover:block border-1 p-2 md:p-0 lg:p-4 md:block lg:hidden lg:absolute lg:top-12 bg-white lg:border-1 border-gray-300 w-[200px] lg:shadow-2xl md:border-0">
           {route.children.map((child, i) => (
             <li className="mt-2" key={i}>
-              {child.name}
+              <a href={child.path}>{child.name}</a>
             </li>
           ))}
         </ul>
